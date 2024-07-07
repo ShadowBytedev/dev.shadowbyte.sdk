@@ -2,7 +2,7 @@
   "name": "dev.shadowbyte.sdk",
   "displayName": "dev.shadowbyte.sdk",
   "version": "7.0.0",
-  "description": "AtlasSize: Set base light map resolution.\nAuto Lighting Tool: Customize lighting with ease (intensity, color, shadows, etc.).\nBulk Texture Optimization: Optimize textures for better performance.\nCustom Package Exporter: Streamline and customize project exports.",
+  "description": "AtlasSize. Auto Lighting Tool. Bulk Texture Optimization: Optimize textures. Custom Package Exporter.",
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.worlds": "3.6.1"
