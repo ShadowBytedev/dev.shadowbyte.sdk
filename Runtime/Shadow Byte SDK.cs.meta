@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 421621bd3a734a0468059fc7d15c7215
+guid: 9dbb30e10640d70438185edd1f5e96fd
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
   - m_ViewDataDictionary: {instanceID: 0}
-  - logo: {fileID: 21300000, guid: 98981a141c4157d4bb662ea623ad118f, type: 3}
+  - logo: {fileID: 21300000, guid: 9f14693a5dd755444a87a4123e88c99c, type: 3}
   - buildingRoot: {instanceID: 0}
-  - Step1imageSprite: {fileID: 21300000, guid: 4bc733dffc3a931419d0460b1d2e51b4, type: 3}
-  - Step2imageSprite: {fileID: 21300000, guid: a19bc95c3c864774e9261d67d1e1883b, type: 3}
-  - Step3imageSprite: {fileID: 21300000, guid: d4310f4c4ffd0b942a1685bd566e6247, type: 3}
-  - Step4imageSprite: {fileID: 21300000, guid: a19bc95c3c864774e9261d67d1e1883b, type: 3}
-  - Step5imageSprite: {fileID: 21300000, guid: 8d74bfdb089e9514f898beed47b5bce7, type: 3}
-  - Step6imageSprite: {fileID: 21300000, guid: 06e1326a186aa4748b89f20a51e8a537, type: 3}
-  - Step7imageSprite: {fileID: 21300000, guid: 311daa5dc6b620d4783a9d78875a8bfb, type: 3}
+  - Step1imageSprite: {instanceID: 0}
+  - Step2imageSprite: {instanceID: 0}
+  - Step3imageSprite: {instanceID: 0}
+  - Step4imageSprite: {instanceID: 0}
+  - Step5imageSprite: {instanceID: 0}
+  - Step6imageSprite: {instanceID: 0}
+  - Step7imageSprite: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
