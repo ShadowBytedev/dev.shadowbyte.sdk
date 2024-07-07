@@ -1,18 +1,18 @@
 {
-    "name": "dev.shadowbyte.sdk",
-    "displayName": "Shadow Byte Development SDK",
-    "version": "7.0.0",
-    "description": "Shadow Byte Development SDK",
-    "url": "https://shadowbyte.dev/",
-    "author": {
-      "name": "Shadow Byte Development"
-    },
-    "gitDependencies": {},
-    "vpmDependencies": {},
-    "legacyFiles": {},
-    "hideInEditor": false,
-    "license": "MIT",
-    "unity": "2019.4",
-    "type": "tool",
-    "localPath": ".\\Packages\\dev.shadowbyte.sdk"
-  }
+  "name": "dev.shadowbyte.sdk",
+  "displayName": "dev.shadowbyte.sdk",
+  "version": "7.0.0",
+  "description": "AtlasSize: Set base light map resolution.\nAuto Lighting Tool: Customize lighting with ease (intensity, color, shadows, etc.).\nBulk Texture Optimization: Optimize textures for better performance.\nCustom Package Exporter: Streamline and customize project exports.",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.6.1"
+  },
+  "author": {
+    "name": "Shadow Byte Development",
+    "email": "contact@shadowbyte.dev",
+    "url": "https://shadowbyte.dev/"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": ".\\Packages\\dev.shadowbyte.sdk"
+}
